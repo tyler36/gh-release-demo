@@ -11,5 +11,5 @@
         "postcss": "^8.1.14",
         "vite": "^3.0.0"
     },
-    "version": "origin/main"
+    "version": "1.0.0"
 }
