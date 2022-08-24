@@ -20,3 +20,5 @@
     ```shell
     php vendor/bin/conventional-changelog --first-release
     ```
+
+- Commit directly to main
